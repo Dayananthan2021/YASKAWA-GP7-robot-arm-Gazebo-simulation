@@ -6,7 +6,7 @@
 This repository presents a simulation of the **YASKAWA GP7** industrial robotic arm combined with a **Robotiq 2F-85** gripper.  
 Built on **ROS 2 Jazzy** and **Gazebo Harmonic**, the project focuses on executing a precise Pick-and-Place workflow: the robot retrieves a small cube (Box B) from a random pose and positions it carefully on top of a designated container (Box A) while ensuring stable orientation throughout the motion.
 
-## 🚀 Key Capabilities
+##  Key Capabilities
 
 - **Accurate Robot & Gripper Modeling**  
   URDF describing the GP7 arm integrated with the Robotiq 2F-85 ensures realistic kinematics.
@@ -47,7 +47,7 @@ cd ~/ros2_ws/src
 ### 2️ Clone the Project
 
 ```bash
-git clone  gp7_sim
+git clone https://github.com/Dayananthan2021/YASKAWA-GP7-robot-arm-Gazebo-simulation gp7_sim
 ```
 
 ### 3️ Install Dependencies
@@ -129,7 +129,3 @@ The GP7 model is constructed using Standard D-H parameters sourced from manufact
 ##  License
 
 This repository is distributed under the **MIT License**. Refer to the [LICENSE](LICENSE) file for full terms.
-
-```
-
-```
