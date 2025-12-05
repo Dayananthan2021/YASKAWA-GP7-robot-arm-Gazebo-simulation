@@ -47,7 +47,7 @@ cd ~/ros2_ws/src
 ### 2️ Clone the Project
 
 ```bash
-git clone https://github.com/Dayananthan2021/YASKAWA-GP7-robot-arm-Gazebo-simulation gp7_sim
+git clone https://github.com/Dayananthan2021/YASKAWA-GP7-robot-arm-Gazebo-simulation.git gp7_sim
 ```
 
 ### 3️ Install Dependencies
